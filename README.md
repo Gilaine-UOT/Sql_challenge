@@ -15,6 +15,7 @@ Using QuickDBD, I created an Entity Relationship Diagram of the tables to model 
 
 ## Data Engineering
 
+SQL was used to create the label schema for each CSV file. The schemas for the table included constraints like data types, primary keys, foreign keys, composite keys, and so on
 
 
 ## Data Analysis
