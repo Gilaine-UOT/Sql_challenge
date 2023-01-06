@@ -48,6 +48,6 @@ SQL was used to create the label schema for each CSV file. The schemas for the t
 
 ![](https://github.com/Gilaine-UOT/Sql_challenge/blob/main/Images/Capture%207%20-.PNG)
 
-8.List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+8.List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name.
 
 ![](https://github.com/Gilaine-UOT/Sql_challenge/blob/main/Images/Capture%208%20-.PNG)
